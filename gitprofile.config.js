@@ -8,13 +8,21 @@ const config = {
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [
-        "github-readme-stats",
-        "guillaumearnx",
-        "discord-image-generation",
-        "Potato",
-        "pterodactyl-eggs"
+        "guillaumearnx/guigzbot",
+        "guillaumearnx/github-readme-stats",
+        "guillaumearnx/guillaumearnx",
+        "guillaumearnx/Discord-Bot-Template-V14",
+        "guillaumearnx/discord-image-generation",
+        "guillaumearnx/Potato",
+        "guillaumearnx/pterodactyl-eggs",
+        "arnoux23u-IUTNC/IPTools",
+        "arnoux23u-IUTNC/Swing-Paint-Tool",
       ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
+    organizations: true, // Set to true, if you want to display projects from public organizations of your GitHub account.
+  },
+  avatar: {
+    url: 'https://media.licdn.com/dms/image/C4E03AQE-hk0uRJLw8g/profile-displayphoto-shrink_800_800/0/1659596603237?e=2147483647&v=beta&t=aFEtd7NIErYGQ2PNtBaH3fEFaf2iAgTg46iV1LhTskQ', //Set an URL to display an image instead of your GitHub avatar. If left empty, your GitHub avatar will be displayed.
   },
   social: {
     linkedin: 'arnouxg',
