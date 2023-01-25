@@ -9,7 +9,7 @@ const config = {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [
         "github-readme-stats",
-        "guillaumarnx",
+        "guillaumearnx",
         "discord-image-generation",
         "Potato",
         "pterodactyl-eggs"
@@ -95,7 +95,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'haloween',
+    defaultTheme: 'halloween',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
