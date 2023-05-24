@@ -8,15 +8,15 @@ const config = {
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [
-        "guillaumearnx/guigzbot",
-        "guillaumearnx/github-readme-stats",
-        "guillaumearnx/guillaumearnx",
-        "guillaumearnx/Discord-Bot-Template-V14",
-        "guillaumearnx/discord-image-generation",
-        "guillaumearnx/Potato",
-        "guillaumearnx/pterodactyl-eggs",
-        "arnoux23u-IUTNC/IPTools",
-        "arnoux23u-IUTNC/Swing-Paint-Tool",
+        'guillaumearnx/guigzbot',
+        'guillaumearnx/github-readme-stats',
+        'guillaumearnx/guillaumearnx',
+        'guillaumearnx/Discord-Bot-Template-V14',
+        'guillaumearnx/discord-image-generation',
+        'guillaumearnx/Potato',
+        'guillaumearnx/pterodactyl-eggs',
+        'arnoux23u-IUTNC/IPTools',
+        'arnoux23u-IUTNC/Swing-Paint-Tool',
       ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
     organizations: true, // Set to true, if you want to display projects from public organizations of your GitHub account.
@@ -39,8 +39,7 @@ const config = {
     email: 'contact@garnx.fr',
   },
   resume: {
-    fileUrl:
-      'https://cv.garnx.fr', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://cv.garnx.fr', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -60,23 +59,23 @@ const config = {
       company: 'LMI Solutions',
       position: 'Computer Science and Network Junior Engineer',
       from: 'April 2022',
-      to: 'Present',
+      to: 'Today',
       companyLink: 'https://www.lmisolutions.fr',
     },
     {
       company: 'Gendarmerie Nationale',
       position: 'Réserviste opérationnel (RO1)',
       from: 'Sept 2022',
-      to: 'Present',
+      to: 'Today',
       companyLink: '',
     },
   ],
   education: [
     {
-      institution: 'CESI',
+      institution: 'CESI Nancy',
       degree: 'Computer Science and Network Engineer',
       from: '2022',
-      to: 'Present',
+      to: 'Today',
     },
     {
       institution: 'IUT Nancy-Charlemagne',
@@ -85,8 +84,8 @@ const config = {
       to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'LPO Jean Hanzelet - Pont-à-Mousson',
+      degree: ' Scientific Baccalaureate',
       from: '2017',
       to: '2020',
     },
